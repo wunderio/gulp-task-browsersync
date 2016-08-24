@@ -1,6 +1,6 @@
 {
   "name": "gulp-task-browsersync",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A gulp task for reloading the browser.",
   "main": "index.js",
   "repository": {
